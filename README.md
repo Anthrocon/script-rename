@@ -1,6 +1,6 @@
 # script-rename
 
-Windows PowerShell script renames .jpg files for ingest to Anthrocon media vault.
+Windows PowerShell script renames .jpg files for ingest to the Anthrocon shared drive.
 
 ## Scope
 
